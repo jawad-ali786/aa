@@ -1,0 +1,17 @@
+{
+  "name": "scraper-backend",
+  "version": "1.0.0",
+  "description": "Scraper backend",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ALi Anwar, Mr. Rabbit, Aqsa Gul, Aatika Qureshi",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "puppeteer": "^19.3.0"
+  }
+}
